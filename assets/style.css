@@ -9,11 +9,12 @@
 body {
 	font-family: -apple-system, BlinkMacSystemFont, helvetica, arial, sans-serif;
 	transition: background 500ms ease;
-	element.style:  ;background: #ddf0c7;
+	background-color: #C5F4AF;
+}
 
 p, li {
-	font-size:  22px;
-	line-height: 30px;
+	font-size:  12px;
+	line-height: 15px;
 }
 
 /* adjusting spacing */
@@ -37,9 +38,9 @@ img {
 
 /* uncomment the code below to set the grid */
 
-/*#grid {
+#grid {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 2fr 2fr;
 }
 
 body {
@@ -56,5 +57,5 @@ body {
 }
 
 #right-column {
-	background: #333;
-}*/
+	background: #C5F4AF;
+}*
